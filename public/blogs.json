@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co.com/yq15cWm/modern-concept.jpg",
+      "title": "The Secrets of the Hidden Garden",
+      "author": "Emily Harper",
+      "author_img": "https://i.ibb.co.com/r3fXdGY/fantasy-style-scene-international-day-education.jpg",
+      "posted_date": "2025-01-10",
+      "reading_time": 8,
+      "hashtags": ["#nature", "#mystery", "#garden", "#fiction"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co.com/FqcjLLJ/16332396-524-web-banner-template.jpg",
+      "title": "AI and the Future of Creativity",
+      "author": "Dr. Jonathan Cole",
+      "author_img": "https://i.ibb.co.com/18MTT4M/cheerful-businessman-with-tablet-computer.jpg",
+      "posted_date": "2025-01-12",
+      "reading_time": 12,
+      "hashtags": ["#AI", "#technology", "#creativity", "#innovation"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co.com/pZ5kspm/10882516-4559041.jpg",
+      "title": "Cooking Made Simple: 30-Minute Meals",
+      "author": "Sophia Chang",
+      "author_img": "https://i.ibb.co.com/JjFtpZ1/serious-man-reading-newspaper-park-bench.jpg",
+      "posted_date": "2025-01-08",
+      "reading_time": 6,
+      "hashtags": ["#cooking", "#recipes", "#food", "#quickmeals"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co.com/wCfBWwg/10867798-19330955.jpg",
+      "title": "Travel Diaries: Exploring Iceland",
+      "author": "Liam Bennett",
+      "author_img": "https://i.ibb.co.com/NnVLsVS/serious-businessman-using-smartphone-street.jpg",
+      "posted_date": "2025-01-14",
+      "reading_time": 10,
+      "hashtags": ["#travel", "#Iceland", "#adventure", "#photography"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co.com/f2LNG3r/1117841-7914.jpg",
+      "title": "Mastering Mindfulness in Daily Life",
+      "author": "Ava Mitchell",
+      "author_img": "https://i.ibb.co.com/v36cT5Y/artist-demonstrating-his-new-painting-looking-critics-reviews.jpg",
+      "posted_date": "2025-01-11",
+      "reading_time": 7,
+      "hashtags": ["#mindfulness", "#mentalhealth", "#selfcare", "#wellness"]
+    }
+  ]
+  
